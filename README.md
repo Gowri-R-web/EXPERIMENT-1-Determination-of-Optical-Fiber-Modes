@@ -60,4 +60,7 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+![EXP 1](https://github.com/user-attachments/assets/1f5ecfc2-4b2c-4ad5-b86b-8e54fbcf78bb)
+
 ## Result
+Thus the optical fiber modes studied successfully.
